@@ -1,4 +1,4 @@
-<img width="1338" height="338" alt="Captura de tela 2026-06-22 111430" src="https://github.com/user-attachments/assets/d7b2d011-3cf0-4310-acc3-c294157c3284" />
+<img width="2048" height="2048" alt="Image (23)" src="https://github.com/user-attachments/assets/d48f0b0a-6a4c-48af-809b-0fdc9babbf6f" />
 
 
 # Tiamat
