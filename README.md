@@ -56,7 +56,7 @@ O brasão do projeto, inspirado na mitologia nórdica, une três ideias: a vida,
 
 O brasão é de autoria de **Beatriz Pessoa de Souza** (Ilum Escola de Ciência). O desenho foi feito digitalmente por mim no aplicativo **ibis Paint**. As imagens listadas abaixo foram usadas apenas como **referência visual** e não foram copiadas ou incorporadas ao desenho.
 
-Houve uso de IA para elaborar a história por traz do brasão. Foi usado Microsft Copilot IA dia 18 out. 2026.
+Houve uso de IA para ajudar elaborar a história por traz do brasão, unindo os conceitos da mitologia encorporados a conceitos presentes no projeto. Foi usado Microsft Copilot IA dia 18 out. 2026.
 
 ### Referências do brasão
 
