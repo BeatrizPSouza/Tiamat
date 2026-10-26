@@ -1,4 +1,4 @@
-<img width="2048" height="2048" alt="Image (23)" src="https://github.com/user-attachments/assets/d48f0b0a-6a4c-48af-809b-0fdc9babbf6f" />
+<img width="1041" height="1080" alt="Apresentação portfólio designer projetos profissional corporativo branco" src="https://github.com/user-attachments/assets/46dc6f5f-1385-402b-aae9-4a3f9be1a914" />
 
 
 # Tiamat
