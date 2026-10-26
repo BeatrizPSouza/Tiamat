@@ -1,3 +1,6 @@
+<img width="1338" height="338" alt="Captura de tela 2026-06-22 111430" src="https://github.com/user-attachments/assets/d7b2d011-3cf0-4310-acc3-c294157c3284" />
+
+
 # Tiamat
 Repositório do Tiamat, trabalho desenvolvido para o projeto final da disciplina de Aprendizado de Máquina (ATP-203), ministrada por Daniel R. Cassar na Ilum Escola de Ciência (CNPEM), e é de autoria de Beatriz Pessoa de Souza.
 
