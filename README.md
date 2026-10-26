@@ -40,6 +40,35 @@ Para executar o projeto, é necessário ter o Python 3.13.7 instalado, bem como 
   - **Explicação dos modelos:** `permutation_importance`, `PartialDependenceDisplay`.
 - **Biblioteca padrão do Python**: `functools` (função `partial`) e `warnings`.
 
+## Brasão do projeto
+
+### Casa Yggdrasil: o ciclo do conhecimento
+
+> *"O conhecimento nasce da análise dos dados e se renova a cada ciclo."*
+
+O brasão do projeto, inspirado na mitologia nórdica, une três ideias: a vida, o câncer e o aprendizado de máquina.
+
+- **A árvore** é inspirada em Yggdrasil, a árvore do mundo da mitologia nórdica, e simboliza a complexidade da vida. Suas **raízes** representam a base de dados que sustenta o projeto, e seus **galhos** representam a diversidade dos processos biológicos e dos tipos de câncer (a base usada cobre 30 deles).
+- **A fita** que atravessa o tronco representa o câncer, a conscientização e a importância da pesquisa científica. Por estar integrada à árvore, ela simboliza a relação entre a doença e os sistemas biológicos em que ela se desenvolve.
+- **A serpente** é inspirada em Jörmungandr, a serpente de Midgard, que na mitologia nórdica envolve o mundo e morde a própria cauda, imagem que lembra o ouroboros. Ela representa os ciclos de aprendizagem e aprimoramento: assim como a serpente retorna ao ponto de origem, o aprendizado de máquina passa por etapas de treinamento, avaliação e refinamento para identificar padrões nos dados.
+
+### Autoria e criação
+
+O brasão é de autoria de **Beatriz Pessoa de Souza** (Ilum Escola de Ciência). O desenho foi feito digitalmente por mim no aplicativo **ibis Paint**. As imagens listadas abaixo foram usadas apenas como **referência visual** e não foram copiadas ou incorporadas ao desenho.
+
+Houve uso de IA para elaborar a história por traz do brasão. Foi usado Microsft Copilot IA dia 18 out. 2026.
+
+### Referências do brasão
+
+**Mitologia**
+- CRAZY ALCHEMIST. *Jörmungandr: The Midgard Serpent*. Crazy Alchemist, 2026. Disponível em: https://www.crazyalchemist.com/bestiary/jormungandr/. Acesso em: 17 out. 2026.
+
+**Referências visuais**
+- MAGNIFIC (antes Freepik). *[Título do vetor usado como referência]*. Autoria: [autor]. Disponível em: [link da página do vetor]. Acesso em: 16 out. 2026
+- THE NORSE WAY. *Wooden Yggdrasil Wall Art*. Disponível em: https://thenorseway.com/products/wooden-tree-of-life-wall-art. Acesso em: 16 out. 2026.
+- [DESIGNER DA FONTE]. *Yggdrasil* (fonte tipográfica). FFonts.net. Disponível em: https://pt.ffonts.net/Yggdrasil.font. Acesso em: 17 out. 2026.
+
+  
 ### Professores
 
 ##### Daniel Roberto Cassar
@@ -50,7 +79,7 @@ Doutorado: Ciência e Engenharia de Materiais (UFSCar) - Pós-doutorado: UFSCar.
 
 Beatriz Pessoa de Souza discente do curso de bacharelado em ciência e tecnologia na Ilum Escola de Ciência.
 
-### Referência
+### Referências
 
 THORSSON, V. et al. The Immune Landscape of Cancer. Immunity, v. 48, n. 4, p. 812-830, 2018. Dados: Tabela S1 (PanImmune Feature Matrix).
 
