@@ -80,7 +80,7 @@ Houve uso de IA apenas para ajudar a elaborar a história por trás do brasão, 
  
 - MAGNIFIC (antes Freepik). **[PREENCHER: título da página do vetor]**. Autoria: **[PREENCHER: autor, se a página informar]**. Disponível em: **[PREENCHER: link da página do vetor]**. Acesso em: 16 out. 2026.
 - THE NORSE WAY. *Wooden Yggdrasil Wall Art*. Disponível em: https://thenorseway.com/products/wooden-tree-of-life-wall-art. Acesso em: 16 out. 2026.
-- **[PREENCHER: designer da fonte, ou use FFONTS.NET se a página não informar]**. *Yggdrasil* (fonte tipográfica). FFonts.net. Disponível em: https://pt.ffonts.net/Yggdrasil.font. Acesso em: 17 out. 2026.
+- *Yggdrasil* (fonte tipográfica). FFonts.net. Disponível em: https://pt.ffonts.net/Yggdrasil.font. Acesso em: 17 out. 2026.
 ## Professores
  
 **Daniel Roberto Cassar**: doutorado em Ciência e Engenharia de Materiais (UFSCar) e pós-doutorado na UFSCar. Área de atuação: informática dos materiais.
