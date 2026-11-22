@@ -1,4 +1,5 @@
 <img width="1041" height="1080" alt="Brasão do projeto Tiamat: Casa Yggdrasil" src="https://github.com/user-attachments/assets/46dc6f5f-1385-402b-aae9-4a3f9be1a914" />
+
 # Tiamat
  
 Repositório do Tiamat, trabalho desenvolvido para o projeto final da disciplina de Aprendizado de Máquina, ministrada por Daniel R. Cassar na Ilum Escola de Ciência (CNPEM), e é de autoria de Beatriz Pessoa de Souza.
